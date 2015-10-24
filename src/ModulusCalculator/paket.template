@@ -1,0 +1,23 @@
+type project
+owners
+    Terje Tyldum
+authors 
+    Terje Tyldum
+projectUrl
+    http://github.com/terjetyl/ModulusCalculator
+iconUrl
+    https://raw.githubusercontent.com/terjetyl/ModulusCalculator/master/docs/files/img/logo.png
+licenseUrl
+    http://github.com/terjetyl/ModulusCalculator/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    mod10 mod11 Luhn
+summary
+    Calculates Mod10 and Mod11
+description
+    Calculates Mod10 and Mod11
+
+

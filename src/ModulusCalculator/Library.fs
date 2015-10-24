@@ -1,4 +1,4 @@
-﻿namespace FSharp.ProjectTemplate
+namespace ModulusCalculator
 
 /// Documentation for my library
 ///
